@@ -1,4 +1,4 @@
-# Crust Sworker Teaclave
+# Trust Sworker Teaclave
 
 ## Prerequisites:
 - Hardware requirements: 
